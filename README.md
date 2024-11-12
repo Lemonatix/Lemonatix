@@ -1,7 +1,7 @@
 - Hi, I am Mika, a.k.a. @Lemonatix
 - I’m interested in Physics, Chemistry and of course programming.
-- I’m currently learning python, dart and C++ as programming languages and I am currently building my own website with html, css and javascript.
-- I'll be looking forward to expanding my programming knowledge here and learning with a lot of fun projects!
+- I’m currently learning Python, Dart and C++ as programming languages and I am currently building my own website with HTML, CSS and JavaScript.
+- I'll be looking forward to expanding my programming knowledge here and learning a lot with some fun projects!
 
 <!---
 Lemonatix/Lemonatix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
