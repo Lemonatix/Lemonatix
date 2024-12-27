@@ -43,12 +43,6 @@
 
 ---
 
-## Let's Connect!
-
-If you'd like to chat or collaborate, feel free to reach me via:
-
-- **Email**: [mail@mika-riesterer.de](mailto:mail@mika-riesterer.de)
-
 <p align="center">
   <!-- You can replace this GIF or remove it if you like -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Cat"/>
