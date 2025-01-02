@@ -14,10 +14,10 @@
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
 - **Studies**: Physics and Chemistry at University
-- **Interests**: Math (e.g. Topology and Manifolds), programming, and exploring new ideas
+- **Interests**: Math (e.g. Topology and Manifolds), Programming and exploring new ideas
 - **Currently Learning**:  
   - **Python** and **Dart** (among other cool stuff)  
-  - Building my own website with **HTML**, **CSS**, and **JavaScript**
+  - Building my own website with **HTML**, **CSS** and **JavaScript**
 - **Goals**: Keep expanding my programming skills, work on fun side projects, and learn a ton from this awesome open-source community!
 
 ---
