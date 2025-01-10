@@ -5,11 +5,6 @@
 
 ---
 
-<p align="center">
-  <!-- Profile View Counter (Optional) -->
-  <img src="https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 ## About Me
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
