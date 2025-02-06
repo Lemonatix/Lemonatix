@@ -13,6 +13,7 @@
 - **Currently Learning**:  
   - **Python**, **Rust** and **Julia** (Rust and Julia in early stages) 
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
+  - maybe get into Assembly?
 - **Goals**: Keep expanding my programming skills, work on fun side projects, and learn a ton from this awesome open-source community!
 
 ---
