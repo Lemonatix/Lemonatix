@@ -11,7 +11,7 @@
 - **Studies**: Physics and Chemistry at University
 - **Interests**: Math (e.g. Topology and Manifolds), Programming, Gaming and exploring unique ideas
 - **Currently Learning**:  
-  - **Python**, **Rust** and **Julia** (Java and C++ in early stages) 
+  - **Python**, **Rust** and **Julia** (Rust and Julia in early stages) 
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
 - **Goals**: Keep expanding my programming skills, work on fun side projects, and learn a ton from this awesome open-source community!
 
