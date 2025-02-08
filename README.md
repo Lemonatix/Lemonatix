@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
+  <img src = "![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)">
 </p>
 ---
 
