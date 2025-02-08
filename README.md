@@ -5,6 +5,16 @@
 
 ---
 
+<div align="center">
+  <!-- Visitor Counter -->
+  <img 
+       src="https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square" 
+       alt="Profile views" 
+  />
+</div>
+
+---
+
 ## About Me
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
@@ -38,16 +48,6 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lemonatix&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
----
-
-<div align="center">
-  <!-- Visitor Counter -->
-  <img 
-       src="https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square" 
-       alt="Profile views" 
-  />
 </div>
 
 ---
