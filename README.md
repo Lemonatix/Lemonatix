@@ -9,7 +9,7 @@
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
 - **Studies**: Physics and Chemistry at University
-- **Interests**: Math (e.g. Topology and Manifolds), Programming, Gaming and exploring unique ideas
+- **Interests**: Math (e.g. Topology and Manifolds), Programming, Gaming and exploring unique ideas  
 - **Currently Learning**:  
   - **Python**, **Rust** and **Julia** (Rust and Julia in early stages)
   - some **Assembly**
@@ -40,10 +40,14 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lemonatix&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 
-<!-- Visitor Counter -->
+---
+
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
+  <!-- Visitor Counter -->
+  <img 
+       src="https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square" 
+       alt="Profile views" 
+  />
 </div>
 
 ---
