@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;I+am+Mika+%28a.k.a.+%40Lemonatix%29!;Studying+Physics+%26+Chemistry;Let%27s+code+some+cool+stuff!">
 </div>
 
-<!-- Visitor Counter -->
-<div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
-</div>
-
 ---
 
 ## About Me
@@ -44,6 +38,12 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lemonatix&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
 </div>
 
 ---
