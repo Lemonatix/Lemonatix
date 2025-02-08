@@ -4,9 +4,11 @@
 </div>
 
 <!-- Visitor Counter -->
-<p align="center">
-  <img src = "![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)">
-</p>
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
+</div>
+
 ---
 
 ## About Me
