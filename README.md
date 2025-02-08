@@ -5,7 +5,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lemonatix.Lemonatix" alt="visitors">
+  ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
 </p>
 
 ---
