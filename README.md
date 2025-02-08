@@ -41,9 +41,9 @@
 </div>
 
 ---
-
+<div align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
-
+</div>
 <!---
 Lemonatix/Lemonatix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
