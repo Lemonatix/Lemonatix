@@ -12,8 +12,6 @@
   />
 </div>
 
----
-
 ## About Me
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
