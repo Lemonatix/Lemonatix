@@ -7,7 +7,6 @@
 <p align="center">
   ![Profile views](https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square)
 </p>
-
 ---
 
 ## About Me
