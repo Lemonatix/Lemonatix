@@ -23,7 +23,7 @@
   - **Python**, **Rust** and **Julia** (Rust and Julia in early stages)
   - some **Assembly** after the other languages
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
-- **Goals**: Keep expanding my programming skills, work on fun side projects, and learn a ton from this awesome open-source community!
+- **Goals**: Keep expanding my programming skills and work on fun side projects!
 
 ---
 
