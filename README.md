@@ -24,6 +24,7 @@
   - some **Assembly** after the other languages
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
 - **Goals**: Keep expanding my programming skills and work on fun side projects.
+- **Git Goal**: Minimum one useful git commit every day, to get consistent regarding programming.
 
 ---
 
