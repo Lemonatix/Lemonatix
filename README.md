@@ -22,7 +22,7 @@
 - **Currently Learning**:  
   - **Python**, **Rust** and **Julia** (Rust and Julia in early stages)
   - some **Assembly** after the other languages
-  - Math animations with manim library from 3b1b
+  - Math animations with **manim** from 3b1b
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
 - **Goals**: Keep expanding my programming skills and work on fun side projects.
 - **Git Goal**: Minimum one useful git commit every day, to get consistent regarding programming.
