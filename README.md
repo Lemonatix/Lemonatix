@@ -18,14 +18,14 @@
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
 - **Studies**: Physics and Chemistry at University
-- **Interests**: Maths (or as you can see a lot of science), Programming, Gaming and exploring unique ideas  
+- **Interests**: Maths (and as you can see a lot of science), Programming, Gaming and exploring unique ideas  
 - **Currently Learning**:  
   - **Python**, **Rust** and **Julia** (Rust and Julia in early stages)
   - some **Assembly** after the other languages and **Q# (Q-Sharp)**
   - **manim** from 3b1b for math animations
   - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
 - **Goals**: Keep expanding my programming skills and work on fun side projects.
-- **Git Goal**: Minimum one useful git commit every day, to get consistent regarding programming.
+- **Git Goal**: Minimum one useful git commit every day, to get consistent in programming.
 
 ---
 
