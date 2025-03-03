@@ -23,7 +23,7 @@
   - **Python**, **Rust** & **Julia** (Rust & Julia in early stages)
   - some **Assembly** after the other languages & **Q# (Q-Sharp)**
   - **manim** from 3b1b for math animations
-  - Building my own website from scratch with **HTML**, **CSS** and **JavaScript**
+  - Building my own website from scratch with **HTML**, **CSS** & **JavaScript**
 - **Goals**: Keep expanding my programming skills & work on fun side projects.
 - **Git Goal**: Minimum one useful git commit every day, to get consistent in programming.
 
