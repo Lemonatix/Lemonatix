@@ -21,7 +21,7 @@
 - **Interests**: Maths (and as you can see a lot of science), Programming, Gaming & exploring unique ideas  
 - **Currently Learning**:  
   - **Python**, **Rust** & **Julia** (Rust & Julia in early stages)
-  - some **Assembly** after the other languages & **Q# (Q-Sharp)**
+  - some **Assembly** after the other languages & **Q#**
   - **manim** from 3b1b for math animations
   - Building my own website from scratch with **HTML**, **CSS** & **JavaScript**
 - **Goals**: Keep expanding my programming skills & work on fun side projects.
