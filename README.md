@@ -18,7 +18,7 @@
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
 - **Studies**: Physics & Chemistry at University
-- **Interests**: Maths (and as you can see a lot of science), Programming, Gaming, Sports & exploring unique ideas  
+- **Interests**: Maths (as you can see a lot of science), Programming, Gaming, Sports & exploring unique ideas  
 - **Currently Learning**:  
   - **Python**, **Rust** & **Julia** (Rust & Julia in early stages)
   - some **Assembly** after the other languages & **Q#**
