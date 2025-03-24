@@ -20,7 +20,7 @@
 - **Studies**: Chemistry & Physics at University
 - **Interests**: Maths, Programming, Gaming, Sports & Science in general
 - **Currently Learning**:  
-  - **Python**, **Rust** & **Julia** (Rust & Julia in early stages)
+  - **Python** and **C/C++**
   - some **Assembly** after the other languages & **Q#**
   - **manim** from 3b1b (math animations)
   - Building my own website from scratch with **HTML**, **CSS** & **JavaScript**
