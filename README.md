@@ -23,7 +23,7 @@
   - **Python** and **C/C++**
   - some **Assembly** after **C/C++** languages & **Q#**
   - **manim** from 3b1b (math animations)
-  - Building my own website from scratch with **HTML**, **CSS** & **JavaScript**
+  - Building my own website from scratch with **HTML**, **CSS** & **Type-/JavaScript**
 - **Goals**: Keep expanding my programming skills & work on fun side projects.
 - **Git Goal**: Useful git commits every few days, to get consistent in programming.
 
