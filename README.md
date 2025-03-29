@@ -25,7 +25,7 @@
   - **manim** from 3b1b (math animations)
   - Building my own website from scratch with **HTML**, **CSS** & **Type-/JavaScript**.
 - **Goals**: Keep expanding my programming skills and work on fun side projects.
-- **Git Goal**: Useful git commits every few days, to get consistent in programming.
+- **Git Goal**: Useful git commits every few days, to get consistent in programming and coding.
 
 ---
 
