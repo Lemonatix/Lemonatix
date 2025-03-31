@@ -21,7 +21,7 @@
 - **Interests**: Maths, Programming, Gaming, Sports & Science in general
 - **Currently Learning**:  
   - **Python** and **C/C++**
-  - some **Assembly** after **C/C++** languages & **Q#**
+  - some **Assembly** after **C/C++** languages
   - **manim** from 3b1b (math animations)
   - Building my own website from scratch with **HTML**, **CSS** & **Type-/JavaScript**.
 - **Goals**: Keep expanding my programming skills and work on fun side projects.
