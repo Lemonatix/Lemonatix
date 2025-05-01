@@ -23,7 +23,7 @@
 - **Currently Learning**:
   - **C/C++**
   - some **Assembly** after **C/C++**
-  - **manim** from [3Blue1Brown](https://github.com/3b1b) (math animations)
+  - **manim** from [3Blue1Brown](https://github.com/3b1b)
   - Building my own website from scratch with **HTML**, **CSS** & **Java-/TypeScript**
 - **Goals**: Keep expanding my programming skills and work on fun projects.
 - **Git Goal**: Useful git commits every few days, to get consistent in programming.
