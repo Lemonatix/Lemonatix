@@ -17,7 +17,7 @@
 ## About Me
 
 - **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
-- **Studies**: Chemistry & Mathematics (+ Physics) at University
+- **Studies**: Chemistry & Mathematics at University
 - **Interests**: Programming, Sports, Travelling & Science in general
 - **Languages**: **Python** and **Julia**
 - **Currently Learning**:
