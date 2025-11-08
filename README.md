@@ -44,3 +44,7 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
+
+## Contact
+Private: [mail@mika-riesterer.de](mail@mika-riesterer.de)
+University related: [riest@cit.tum.edu](riest@cit.tum.edu)
