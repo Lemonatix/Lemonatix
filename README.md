@@ -47,10 +47,6 @@
 
 ## Contact
 
-## Contact
-
-## Contact
-
 - 📫 Private: [mail@mika-riesterer.de](mailto:mail@mika-riesterer.de)
 - 🎓 University (TUM): [riest@cit.tum.edu](mailto:riest@cit.tum.edu)
 - 🌐 Website: [mika-riesterer.de](https://mika-riesterer.de)
