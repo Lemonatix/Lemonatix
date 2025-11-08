@@ -47,6 +47,8 @@
 
 ## Contact
 
-[![Private Email](https://img.shields.io/badge/Email-Private-informational)](mailto:mail@mika-riesterer.de)
-[![TUM Email](https://img.shields.io/badge/Email-TUM-orange)](mailto:riest@cit.tum.de)
-[![Website](https://img.shields.io/badge/Website-mika--riesterer.de-success)](https://mika-riesterer.de)
+## Contact
+
+- 📫 Private: <mailto:mail@mika-riesterer.de>
+- 🎓 University (TUM): <mailto:riest@cit.tum.de>
+- 🌐 Website: <https://mika-riesterer.de>
