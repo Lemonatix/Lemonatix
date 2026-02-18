@@ -22,7 +22,7 @@
 - **Languages**: **Python** and **Julia**
 - **Currently Learning**:
   - **C/C++**
-  - **Assembly (ASM)**
+  - **Assembly (ASM)** (currently on pause)
   - **R**
   - **manim** from [3Blue1Brown](https://github.com/3b1b)
   - to build my own website from scratch with **HTML**, **CSS** & **Java-/TypeScript**
