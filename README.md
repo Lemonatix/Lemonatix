@@ -1,64 +1,51 @@
 <div align="center">
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;I+am+Mika+%28a.k.a.+%40Lemonatix%29!;Studying+Chemistry+%26+Mathematics;Let%27s+code+some+cool+stuff!" alt="Typing SVG">
+  
   <br>
-  <!-- Visitor Counter -->
+  
+  <!-- Visitor Counter (Farbe an Typing SVG angepasst) -->
   <img src="https://komarev.com/ghpvc/?username=Lemonatix&style=flat-square&color=36BCF7" alt="Profile views" />
 </div>
 
-<br><br>
+<br>
 
-<!-- Zweispaltiges Dashboard-Layout -->
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li><b>Name:</b> Mika (<a href="https://github.com/Lemonatix">@Lemonatix</a>)</li>
-        <li><b>Studies:</b> Chemistry & Mathematics at Technical University of Munich</li>
-        <li><b>Interests:</b> Programming, Sports, Travelling & Science in general</li>
-        <li><b>Languages:</b> Python and Julia</li>
-        <li><b>Goals:</b> Keep expanding my programming skills and work on fun projects.</li>
-        <li><b>Git Goal:</b> Useful git commits every few days, to get consistent.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌱 Currently Learning</h3>
-      <ul>
-        <li><b>C / C++</b></li>
-        <li><b>Assembly (ASM)</b> <i>(currently on pause)</i></li>
-        <li><b>R</b></li>
-        <li><b>manim</b> from <a href="https://github.com/3b1b">3Blue1Brown</a></li>
-        <li>To build my own website from scratch with <b>HTML</b>, <b>CSS</b> & <b>Java-/TypeScript</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+- 👤 **Name**: Mika (a.k.a. [@Lemonatix](https://github.com/Lemonatix))
+- 🎓 **Studies**: Chemistry & Mathematics at Technical University of Munich
+- 🌍 **Interests**: Programming, Sports, Travelling & Science in general
+- 💻 **Languages**: **Python** and **Julia**
+- 📚 **Currently Learning**:
+  - **C/C++**
+  - **Assembly (ASM)** (currently on pause)
+  - **R**
+  - **manim** from [3Blue1Brown](https://github.com/3b1b)
+  - to build my own website from scratch with **HTML**, **CSS** & **Java-/TypeScript**
+- 🎯 **Goals**: Keep expanding my programming skills and work on fun projects.
+- 📈 **Git Goal**: Useful git commits every few days, to get consistent in programming.
 
 <br>
 
-<!-- Zentrierte, moderne Skill-Icons -->
-<h3 align="center">🛠️ Tech Stack</h3>
+### 🛠️ Languages
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,julia,c,cpp,html,css,js,ts" alt="Skills" />
-  <br><br>
-  <!-- Für Sprachen, die kein Skill-Icon haben (Assembly, R), nutzen wir schmale Badges -->
-  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
 <br>
 
-<!-- Klickbare Kontakt-Buttons -->
-<h3 align="center">📫 Let's Connect</h3>
-<div align="center">
-  <a href="mailto:mail@mika-riesterer.de">
-    <img src="https://img.shields.io/badge/Private_Mail-36BCF7?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Private Email"/>
-  </a>
-  <a href="mailto:riest@cit.tum.edu">
-    <img src="https://img.shields.io/badge/TUM_Mail-0A5C8E?style=for-the-badge&logo=google-scholar&logoColor=white" alt="TUM Email"/>
-  </a>
-  <a href="https://mika-riesterer.de">
-    <img src="https://img.shields.io/badge/Website-mika--riesterer.de-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</div>
+### 📫 Contact
+
+- 📧 **Private:** [mail@mika-riesterer.de](mailto:mail@mika-riesterer.de)
+- 🏛️ **University (TUM):** [riest@cit.tum.edu](mailto:riest@cit.tum.edu)
+- 🌐 **Website:** [mika-riesterer.de](https://mika-riesterer.de)
