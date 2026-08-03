@@ -1,7 +1,9 @@
 <div align="center">
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;I+am+Mika+%28a.k.a.+%40Lemonatix%29!;Studying+Chemistry+%26+Mathematics;Let%27s+code+some+cool+stuff!" alt="Typing SVG">
-  
+
+---
+
   <br>
   
   <!-- Visitor Counter (Farbe an Typing SVG angepasst) -->
@@ -35,7 +37,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly"/>
-  <br>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
